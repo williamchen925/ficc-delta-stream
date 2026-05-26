@@ -4,8 +4,8 @@
 
 * **Course:** Big Data Systems (Spring 2026) — Final Project
 * **University:** National Taiwan University (NTU)
-* **Student ID:** b12902000
-* **Author Name:** Hung Yu
+* **Student ID:** B12703102
+* **Author Name:** 陳泓宇
 * **Live Demo URL:** https://ficc-delta-stream.streamlit.app
 
 ---
